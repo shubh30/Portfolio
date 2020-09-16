@@ -130,6 +130,12 @@
         "url": "https://immense-ravine-74895.herokuapp.com/"
       },
       {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJS, Firebase and Context API",
+        "image": "amazon.jpg",
+        "url": "https://clone-5f1cd.web.app"
+      },
+      {
         "title": "Netflix Clone",
         "category": "Netfilx Clone built with ReactJS",
         "image": "netflix-clone.jpeg",
