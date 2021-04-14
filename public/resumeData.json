@@ -62,9 +62,15 @@
     ],
     "work": [
       {
+        "company": "Spark 18",
+        "title": "Front End Developer",
+        "years": "October 2020 - Present",
+        "description": "Working on SaaS project as a front end developer. Developing SaaS application for Glide Health. Technology used ReactJS, ANT Design, etc,."
+      },
+      {
         "company": "Sopra Steria",
         "title": "Jr. Executive Information System",
-        "years": "October 2019 - Present",
+        "years": "October 2019 - October 2020",
         "description": "I am a part of the User Device Security/SCCM team. As a team, our main aim is to make sure that all the devices in the organization are secure and UpToDate. To ensure security we use TrendMicro antivirus. Besides that, I am also a part of the SCCM team which is mainly responsible for the application deployment."
       },
       {
