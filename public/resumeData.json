@@ -142,6 +142,12 @@
         "url": "https://clone-5f1cd.web.app"
       },
       {
+        "title": "Slack Clone",
+        "category": "Slack Clone build with ReactJS, Redux, Styled Components and Firebase Hooks",
+        "image": "Slack.jpg",
+        "url": "https://slack-clone-1bf30.web.app/"
+      },
+      {
         "title": "Netflix Clone",
         "category": "Netfilx Clone built with ReactJS",
         "image": "netflix-clone.jpeg",
