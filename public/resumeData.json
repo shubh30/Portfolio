@@ -62,9 +62,15 @@
     ],
     "work": [
       {
+        "company": "Housing.com",
+        "title": "Software Development Engineer",
+        "years": "July 2021 - Present",
+        "description": "Working on a service called Flatmates on Housing platform. The need for this category arises especially to cater to the needs of the relatively younger age-group (18-35) to find a shared accommodation. This is different from the normal renting process where a group of people (or a family) are collectively looking to rent a place."
+      },
+      {
         "company": "Spark 18",
         "title": "Front End Developer",
-        "years": "October 2020 - Present",
+        "years": "October 2020 - July 2021",
         "description": "Working on SaaS project as a front end developer. Developing SaaS application for Glide Health. Technology used ReactJS, ANT Design, etc,."
       },
       {
